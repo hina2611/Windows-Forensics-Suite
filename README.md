@@ -50,18 +50,6 @@ A Python-based Windows Digital Forensics and Incident Response (DFIR) tool desig
 
 ---
 
-## Screenshots
-
-Add screenshots here after uploading images.
-
-### Dashboard
-![Dashboard](images/dashboard.png)
-
-### Report Example
-![Report](images/report.png)
-
----
-
 ## Project Structure
 
 ```text
